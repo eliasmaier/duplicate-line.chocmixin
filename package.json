@@ -1,0 +1,14 @@
+{
+	"name": "Duplicate Line",
+	"version": "1.0.0",
+	"description": "Duplicate current line.",
+	"main": "init.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:eliasmaier/duplicate-line.chocmixin.git"
+	},
+	"keywords": [
+	],
+	"author": "Elias Maier",
+	"license": "Apache 2.0"
+}
